@@ -1,9 +1,9 @@
 
 # Projeto Cronômetro
 
-##Utilizando HTML, CSS e Javascript
+## Utilizando HTML, CSS e Javascript
 
-##Exercício JavasCript
+## Exercício JavasCript
 
-##Comandos API
+
 
